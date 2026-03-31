@@ -3,7 +3,7 @@
 - Claudio Vignola
 - Babuska
 ## Project Goal
-How can we design and test a simple project website using GitHub Pages?
+
 ## Background
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
