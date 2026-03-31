@@ -14,6 +14,9 @@ This site collects our project materials, notes, and deliverables.
 - [Video Demo](#)
 ## Results
 Write 2–4 sentences explaining what your project is about and what you found.
+![Image](/Mohamed Almarzooqi_Hw1_3.png)
+**Figura 1.** _Area_
+
 ## Bibliography
 - Source 1
 - Source 2
