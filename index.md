@@ -17,7 +17,7 @@ Write 2–4 sentences explaining what your project is about and what you found.
 ![Image](/T_00.jpg)
 **Figura 1.** _Area_
 
-[Image](/Mohamed Almarzooqi_Hw1_3.png)
+[Image](/MohamedAlmarzooqi_Hw1_3.png)
 **Figura 2.** _Area_
 
 ## Bibliography
